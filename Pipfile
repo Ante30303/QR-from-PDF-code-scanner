@@ -13,6 +13,7 @@ fpdf = "*"
 pillow = "*"
 pypdf2 = "*"
 pikepdf = "*"
+pymupdf = "*"
 
 [dev-packages]
 
